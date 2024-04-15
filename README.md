@@ -12,8 +12,9 @@ This project aims to develop a robust search engine that enables users to find s
 - **MongoDB**: For storing and retrieving song data.
 - **Spotipy API**: To access Spotify's music database.
 - **LyricsGenius API**: For fetching song lyrics.
-- **TF-IDF**: For textual data analysis and relevance scoring.
+- **TF-IDF, BM25**: For textual data analysis and relevance scoring.
 - **SVM (Support Vector Machines)**: For building the recommender system.
+- **Djabgo, HTML, CSS, Javascript**: For Web Development.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
