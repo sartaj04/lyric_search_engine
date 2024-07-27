@@ -1,4 +1,6 @@
-# Song Search Engine
+# Lyrics Search Engine
+
+Initial Repo: https://github.com/sartaj04/Lyrics_search
 
 ## Project Overview
 This project aims to develop a robust search engine that enables users to find songs based on a variety of search filters such as lyrics, album name, artist name, and song title. The core of this system is an information retrieval platform connected to a MongoDB database, populated with a large dataset of song information gathered through web scraping and various APIs like Spotipy and LyricsGenius.
