@@ -27,4 +27,4 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone git@github.com:sartaj04/lyric_search_engine.git
